@@ -1,0 +1,2 @@
+DATABASE_URL = mongodb+srv://litanur:yRvRVg6t!idi75D@cluster0.fymzt.mongodb.net/?retryWrites=true&w=majority
+PORT = 3000
